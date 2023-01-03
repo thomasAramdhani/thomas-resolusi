@@ -5,3 +5,6 @@ aktif dalam diskusi
 kolaborasi dengan lebih banyak expert
 mendalami skill lain
 belajar dengan giat
+mempelajari node js
+mempelajari react js
+mempelajari css tailwind
