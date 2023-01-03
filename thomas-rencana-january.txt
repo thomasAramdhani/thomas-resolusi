@@ -3,3 +3,4 @@ rencana bulan januari
 mengerjakan tugas yang diberikan
 kerjakan proposal
 jangan lupa ibadah
+menyelesaikan materi js lanjutan
