@@ -5,5 +5,7 @@ aktif dalam diskusi
 kolaborasi dengan lebih banyak expert
 mendalami skill lain
 belajar dengan giat
-belajar vue js
 belajar laravel
+mempelajari react js
+mempelajari css tailwind
+mulai masuk ke php
